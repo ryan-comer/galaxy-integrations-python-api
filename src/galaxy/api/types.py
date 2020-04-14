@@ -14,6 +14,8 @@ class Authentication:
     """
     user_id: str
     user_name: str
+    profile_url: str
+    avatar_url: str
 
 
 @dataclass
